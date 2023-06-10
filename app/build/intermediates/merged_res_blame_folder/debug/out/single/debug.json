@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_doctor.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\doctor.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\layout_activity_details_appointment.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\layout\\activity_details_appointment.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_bdheader.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\bdheader.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\layout_activity_login_screen.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\layout\\activity_login_screen.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-36:/layout_activity_details_appointment.xml.flat",
+        "source": "com.example.healthcare.app-main-38:/layout/activity_details_appointment.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.healthcare.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\layout_view.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\layout\\view.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\layout_appointmentshow.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\layout\\appointmentshow.xml"
+    },
+    {
+        "merged": "com.example.healthcare.app-merged_res-36:/drawable_nicepng.png.flat",
+        "source": "com.example.healthcare.app-main-38:/drawable/nicepng.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_backgroundlayout.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\backgroundlayout.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_baseline_password_24.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_inputlayout.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\inputlayout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\layout_activity_home_screen.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\layout_activity_signup_screen.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\layout\\activity_signup_screen.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_bglayout.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\bglayout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-merged_res-36:\\drawable_appointlayout.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\jre\\daemon\\8.0\\com.example.healthcare.app-main-38:\\drawable\\appointlayout.xml"
+    }
+]
